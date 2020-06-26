@@ -121,7 +121,7 @@ helloPromise()
 
 
 // Classes
-classcalculator{
+class Calculator{
     constructor() {
       this.valueA = 0
       this.valueB = 0
@@ -131,7 +131,7 @@ classcalculator{
     }
   }
   
-  const calc = new calculator()
+const calc = new Calculator()
   
   console.log(calc.sum(4,5))
   
