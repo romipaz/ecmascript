@@ -29,6 +29,6 @@ console.log(string.padEnd(12,'hi')) // adds 'hi' at the end
 
 //Trailing comas,to keep assigning elements into the object
 const data= {
-    front:'Alej', // Puede existir
+    front:'Alej', 
     back: 'Rel'
-} 
+}
